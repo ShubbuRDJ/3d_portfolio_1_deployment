@@ -1,4 +1,4 @@
-import {backend, carrent, creator, css, docker, figma, git, html, javascript, jobit, meta, mobile, mongodb, nodejs, reactjs, redux, shopify, starbucks, tailwind, tesla, tripguide, typescript, web} from '../assets/index'
+import {backend, carrent, creator, javascript, jobit, meta, mobile, mongodb, nodejs, reactjs, shopify, starbucks,  tesla, tripguide, web} from '../assets/index'
 import threejs from '../assets/tech/threejs.svg';
 
 export const navLinks = [
@@ -38,35 +38,15 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
+    name: "ReactJS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
+    name: "NodeJS",
     icon: nodejs,
   },
   {
@@ -74,16 +54,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
+    name: "ThreeJS",
     icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
 ];
 
