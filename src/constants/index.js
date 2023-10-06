@@ -35,6 +35,7 @@ const services = [
   },
 ];
 
+
 const technologies = [
   {
     name: "HTML 5",
@@ -83,10 +84,6 @@ const technologies = [
   {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
