@@ -31,7 +31,7 @@ const Hero = () => {
           <div>
             <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Shubham</span></h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-              I develop React.js based full stack <br className='sm:block hidden' /> websites using MERN technologies.
+            a Full Stack Developer specializing in MERN <br className='sm:block hidden' /> (MongoDB/MySQL, Express.js, React.js, Node.js) technologies.
             </p>
           </div>
         </div>

@@ -18,6 +18,7 @@ import typescript from "./tech/typescript.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import appventurez from './company/appventurez.png';
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -49,4 +50,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  appventurez
 };

@@ -29,7 +29,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
       <motion.p className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]' variants={fadeIn('', '', 0.1, 1)}>
-        I'm a skilled software developer with experience in TypeScript and JavaScript, andexpertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real world problems. Let's work together to bring your ideas to life!
+      I'm an emerging Software Development Engineer (SDE) with a solid foundation in JavaScript and a growing proficiency in key frameworks like React.js, Node.js, Express.js and Three.js for 3d designs. My journey into the world of software development is fueled by a deep passion for creating efficient, user-friendly solutions to real-world challenges.
       </motion.p>
       <div className="flex flex-wrap mt-20 gap-10">
         {services.map((service, index) => (

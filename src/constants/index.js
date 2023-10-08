@@ -1,4 +1,4 @@
-import {backend, carrent, creator, javascript, jobit, meta, mobile, mongodb, nodejs, reactjs, shopify, starbucks,  tesla, tripguide, web} from '../assets/index'
+import {backend, carrent, creator, javascript, appventurez, jobit, meta, mobile, mongodb, nodejs, reactjs, shopify, starbucks,  tesla, tripguide, web} from '../assets/index'
 import threejs from '../assets/tech/threejs.svg';
 
 export const navLinks = [
@@ -18,19 +18,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Front-End Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
+    title: "Back-end Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Git & Version Control",
+    icon: mobile,
+  },
+  {
+    title: "HTML CSS & JavaScript",
     icon: creator,
   },
 ];
@@ -62,10 +62,10 @@ const technologies = [
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    company_name: "Appventurez Mobitech",
+    icon: appventurez,
+    iconBg: "#c4cccf",
+    date: "June 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -74,11 +74,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Back-end Developer (Node.js)",
+    company_name: "Appventurez Mobitech",
+    icon: appventurez,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -87,11 +87,11 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "HTML CSS & JavaScript",
+    company_name: "Appventurez Mobitech",
+    icon: appventurez,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "June 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -101,10 +101,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "Appventurez Mobitech",
+    icon: appventurez,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "June 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
