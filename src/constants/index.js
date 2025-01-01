@@ -1,4 +1,4 @@
-import {backend, carrent, creator, javascript, appventurez, jobit, meta, mobile, mongodb, nodejs, reactjs, shopify, starbucks,  tesla, tripguide, web} from '../assets/index'
+import { backend, carrent, creator, javascript, appventurez, jobit, meta, mobile, mongodb, nodejs, reactjs, shopify, starbucks, tesla, tripguide, web } from '../assets/index'
 import threejs from '../assets/tech/threejs.svg';
 
 export const navLinks = [
@@ -18,20 +18,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Front-End Developer",
+    title: "React.js Developer",
     icon: web,
   },
   {
-    title: "Back-end Developer",
+    title: "Node.js Developer",
     icon: backend,
+  },
+  {
+    title: "GSAP/Three.js",
+    icon: creator,
   },
   {
     title: "Git & Version Control",
     icon: mobile,
-  },
-  {
-    title: "HTML CSS & JavaScript",
-    icon: creator,
   },
 ];
 
